@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <table border="1" cellspacing = 0>
+            <caption><h1>thông tin sinh viên</h1></caption>
+            <tr>
+                <td height =25 colspan =300 align="center"></td>
+            </tr>
+            <tr>
+                <th height =25>Họ và tên</th>
+                <td rowspan="1" align="center">ĐÀO KHẮC MINH HIẾU</td>
+            </tr>
+            <tr>
+                <th height =25>ngày sinh</th>
+                <td rowspan="1" align="center">01/08/2001</td>
+            </tr>
+            <tr>
+                <th height =25>giới tính</th>
+                <td rowspan="1" align="center">NAM</td>
+            </tr>
+            <tr>
+                <th height =25>lớp</th>
+                <td rowspan="1" align="center">CNTTK64E</td>
+            </tr>
+            <tr>
+                <th height =25>thông tinh địa chỉ</th>
+                <td rowspan="2" align="center">Hà Nội</td>
+            </tr>
+            <tr>
+                <th height =25></th>
+            </tr>
+            <tr>
+                <th height =25>thông tinh liên lạc</th>
+                <td rowspan="2" align="center">số điện thoại :0522022797 gmail:khachieu0801@gmail.com</td>
+            </tr>
+            <tr>
+                <th height =25></th>
+            </tr>
+            <tr>
+                <td colspan =2 align="center" ><font color = red>ghi chú : sinh viên điền thông tin của mình</td>
+
+
+        </table>
+    </body>
+</html>
